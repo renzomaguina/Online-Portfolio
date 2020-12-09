@@ -1,0 +1,8 @@
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\obj\Debug\Authors.csprojResolveAssemblyReference.cache
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\obj\Debug\Authors.AuthorsTable.resources
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\obj\Debug\Authors.csproj.GenerateResource.Cache
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\DisplayAuthorsTable\Authors\obj\Debug\Authors.csprojResolveAssemblyReference.cache
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\DisplayAuthorsTable\Authors\obj\Debug\Authors.AuthorsTable.resources
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\DisplayAuthorsTable\Authors\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\DisplayAuthorsTable\Authors\obj\Debug\Authors.csproj.GenerateResource.Cache

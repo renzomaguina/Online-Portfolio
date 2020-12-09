@@ -1,0 +1,9 @@
+c:\users\renmag9887\documents\visual studio 2015\Projects\Books Examples\Books Examples\bin\Debug\Books Examples.dll.config
+c:\users\renmag9887\documents\visual studio 2015\Projects\Books Examples\Books Examples\bin\Debug\Books Examples.dll
+c:\users\renmag9887\documents\visual studio 2015\Projects\Books Examples\Books Examples\bin\Debug\Books Examples.pdb
+c:\users\renmag9887\documents\visual studio 2015\Projects\Books Examples\Books Examples\bin\Debug\EntityFramework.dll
+c:\users\renmag9887\documents\visual studio 2015\Projects\Books Examples\Books Examples\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\renmag9887\documents\visual studio 2015\Projects\Books Examples\Books Examples\bin\Debug\EntityFramework.xml
+c:\users\renmag9887\documents\visual studio 2015\Projects\Books Examples\Books Examples\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\renmag9887\documents\visual studio 2015\Projects\Books Examples\Books Examples\obj\Debug\Books Examples.dll
+c:\users\renmag9887\documents\visual studio 2015\Projects\Books Examples\Books Examples\obj\Debug\Books Examples.pdb

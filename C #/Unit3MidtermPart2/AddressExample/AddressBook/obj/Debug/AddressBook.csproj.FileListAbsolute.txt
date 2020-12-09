@@ -1,0 +1,17 @@
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\AddressBook.mdf
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\AddressBook_log.ldf
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\AddressBook.exe.config
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\AddressExample.dll
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\EntityFramework.dll
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\AddressExample.pdb
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\EntityFramework.xml
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\obj\Debug\AddressBook.Contacts.resources
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\obj\Debug\AddressBook.exe
+C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\AddressExample\AddressBook\obj\Debug\AddressBook.pdb
