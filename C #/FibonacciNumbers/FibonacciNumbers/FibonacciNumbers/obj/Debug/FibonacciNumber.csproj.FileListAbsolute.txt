@@ -1,8 +1,0 @@
-C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\FibonacciNumbers\FibonacciNumbers\bin\Debug\FibonacciTest.exe.config
-C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\FibonacciNumbers\FibonacciNumbers\bin\Debug\FibonacciTest.exe
-C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\FibonacciNumbers\FibonacciNumbers\bin\Debug\FibonacciTest.pdb
-C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciTest.FibonacciForm.resources
-C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciTest.Properties.Resources.resources
-C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciNumber.csproj.GenerateResource.Cache
-C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciTest.exe
-C:\Users\renmag9887\Documents\Visual Studio 2015\Projects\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciTest.pdb

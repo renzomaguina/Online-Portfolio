@@ -1,8 +1,0 @@
-C:\Users\Student\Documents\Visual Studio 2017\Projects\FileTest\FileTest\bin\Debug\FileTest.exe.config
-C:\Users\Student\Documents\Visual Studio 2017\Projects\FileTest\FileTest\bin\Debug\FileTest.exe
-C:\Users\Student\Documents\Visual Studio 2017\Projects\FileTest\FileTest\bin\Debug\FileTest.pdb
-C:\Users\Student\Documents\Visual Studio 2017\Projects\FileTest\FileTest\obj\Debug\FileTest.FileTestForm.resources
-C:\Users\Student\Documents\Visual Studio 2017\Projects\FileTest\FileTest\obj\Debug\FileTest.Properties.Resources.resources
-C:\Users\Student\Documents\Visual Studio 2017\Projects\FileTest\FileTest\obj\Debug\FileTest.csproj.GenerateResource.Cache
-C:\Users\Student\Documents\Visual Studio 2017\Projects\FileTest\FileTest\obj\Debug\FileTest.exe
-C:\Users\Student\Documents\Visual Studio 2017\Projects\FileTest\FileTest\obj\Debug\FileTest.pdb
